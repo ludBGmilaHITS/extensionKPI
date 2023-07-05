@@ -1,0 +1,16 @@
+{
+	"name": "EXT-2",
+	"description": "Basic empty visualization template",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"author": "",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"preview": "cyber.png",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
